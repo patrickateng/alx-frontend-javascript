@@ -1,5 +1,9 @@
-# 0x04. Typescript
+# alx-frontend-javascript
+Contains projects for my front-end software engineering practice.
 
-# Resources
-- [youtube](https://www.youtube.com/watch?v=XShQO3BvOyM)
-- [The Net Ninja React Tutorial Series](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
++ [0x00-ES6_basic](./0x00-ES6_basic)
++ [0x00-ES6_promise](./0x00-ES6_promise)
++ [0x00-ES6_classes](./0x00-ES6_classes)
++ [0x03. ES6 data manipulation](./0x03-ES6_data_manipulation)
++ [0x04. Typescript
+](./0x04-TypeScript)
